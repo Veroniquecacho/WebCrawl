@@ -1,4 +1,5 @@
-# Python exam 2019
+# Web Crawl
+Web Crawl is an assignment that was made during the fourth semester as a computer science student.
 This is my exam project for my elective class python. I have choosen 
 [Assignment 1](https://clbokea.github.io/exam/assignment_1.html): Crawl a web site and save the content in markdown.
 
